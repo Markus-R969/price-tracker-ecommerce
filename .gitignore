@@ -1,0 +1,26 @@
+# Entorno Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credenciales & configuración sensible
+.env
+*.env
+config/credentials.json
+config/secrets.yaml
+
+# Datos, logs y bases de datos (no subir al repo)
+data/
+logs/
+*.log
+*.db
+*.sqlite*
+*.csv
+*.xlsx
+*.parquet
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
