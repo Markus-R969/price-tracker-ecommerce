@@ -1,26 +1,37 @@
-# Entorno Python
-__pycache__/
-*.pyc
+﻿# Entorno virtual
 .venv/
 venv/
+env/
 
-# Credenciales & configuración sensible
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Archivos de configuración/secretos
 .env
-*.env
-config/credentials.json
-config/secrets.yaml
+*.env.local
+config.local.py
 
-# Datos, logs y bases de datos (no subir al repo)
-data/
+# Logs y datos generados (no subir a GitHub)
 logs/
+data/
 *.log
-*.db
-*.sqlite*
 *.csv
+*.db
 *.xlsx
-*.parquet
+*.json
 
-# IDE & OS
+# Output de demos (se genera localmente)
+output/
+
+# VS Code / IDEs
 .vscode/
-.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Sistema operativo
 Thumbs.db
+ehthumbs.db
+Desktop.ini
