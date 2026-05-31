@@ -57,6 +57,6 @@ Se genera automáticamente:
 
 ## 📩 Soporte y Desarrollo a Medida
 ¿Necesitas rastrear múltiples productos, tiendas específicas o alertas automáticas?  
-📧 \	u-email@dominio.com\ | 💼 Portfolio: [Tu GitHub/LinkedIn]
+📧 [mark.markuslab@gmail.com](mailto:mark.markuslab@gmail.com) | 💼 Portfolio: [GitHub](https://github.com/Markus-R969)
 
 *Hecho con Python, BeautifulSoup y SQLite. Código limpio, documentado y listo para producción.*
